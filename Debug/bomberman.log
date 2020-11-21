@@ -1,0 +1,3 @@
+﻿  bomberman.cpp
+D:\UCP\Semester 1\ITC\Bomber Game Project\bomberman\bomberman.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bomberman.vcxproj -> D:\UCP\Semester 1\ITC\Bomber Game Project\bomberman\Debug\bomberman.exe

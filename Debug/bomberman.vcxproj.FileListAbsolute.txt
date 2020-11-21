@@ -1,0 +1,2 @@
+D:\UCP\Semester 1\ITC\Bomber Game Project\bomberman\Debug\bomberman.exe
+D:\UCP\Semester 1\ITC\Bomber Game Project\bomberman\Debug\bomberman.pdb
